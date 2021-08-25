@@ -21,7 +21,7 @@ Mes plus-values :
 - 🤝 Des qualités humaines appréciables.
 - 👂 Une disponibilité exemplaire.
 
-En parallèle, je suis en charge de deux projets bien différents, mais partageant un même but : être, dans leur domaine respectif, **une alternative performante à d'autres solutions web techniquement disproportionnées**.
+En parallèle, je suis en charge de divers projets partageant toujours le même but : se positionner, dans leur domaine respectif, en tant qu'alternatives performantes à d'autres solutions web techniquement disproportionnées.
 
 WordsMatter | cirrus
 ------------ | -------------
