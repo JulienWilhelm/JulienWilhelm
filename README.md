@@ -5,3 +5,8 @@ Avec [Temesis](https://temesis.com/), j'interviens en tant qu'expert en écodév
 En parallèle, je conçois avec [Awebsome](https://awebsome.fr) des solutions web écoresponsables pour professionnels engagés et des alternatives efficientes aux outils disproportionnés du marché.
 
 __Important : en soutien aux alternatives GAFAM et à la Free Software Foundation (FSF), qui s'interroge à juste titre sur les aspects légaux et éthiques de GitHub Copilot, mes projets open source (WordsMatter, cirrus, etc) sont désormais hébergés sur [Gitlab](https://gitlab.com/users/julien.wilhelm/projects).__
+
+Accès rapide :
+
+* [cirrus](https://gitlab.com/julien.wilhelm/cirrus) : Cloud Intègre, Responsable et Résilient pour Utilisateurs Sagaces.
+* [WordsMatter](https://gitlab.com/julien.wilhelm/WordsMatter) : Rédigez depuis l'Application ; partagez grâce à l'API connectée. WordsMatter est un module de gestion de blog 100% autonome, libre et gratuit. Son efficience en fait une alternative écoresponsable aux Systèmes de Gestion de Contenu traditionnels (CMS).
