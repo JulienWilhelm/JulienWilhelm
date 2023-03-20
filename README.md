@@ -1,4 +1,4 @@
-Acteur polyvalent du Numérique Responsable, j'en défends la sobriété, l'inclusion et la diversité. Autodidacte assumé, je me suis spécialisé dans l’écoconception et l'analyse de performance environnementale de services numériques pour entendre mes convictions personnelles.
+Acteur du Numérique Responsable, j'en défends la sobriété, l'inclusion et la diversité. Autodidacte, je me suis spécialisé dans l’écoconception et l'analyse de performance environnementale de services numériques par convictions personnelles.
 
 Avec [Temesis](https://temesis.com/), j'interviens en tant qu'expert en écodéveloppement Web auprès des entreprises privées et publiques pour faciliter la prise en compte des répercussions environnementales & sociétales de leurs services numériques, suggérer des axes d'amélioration, mais aussi piloter des transformations à impacts positifs.
 
