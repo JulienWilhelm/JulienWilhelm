@@ -92,6 +92,8 @@ J'ai eu la chance d'intervenir ici :
 
 ## Articles de [blog](https://www.temesis.com/blog/)
 
+- 23/06/2025 Six prérequis pour une IA responsable
+- 19/05/2025 Le nouveau design de Google va-t-il peser sur nos interfaces utilisateurs ?
 - 01/04/2025 Est-il utile de minifier des fichiers compressés par le réseau avec gzip ?
 - 06/03/2025 Combien de temps faut-il pour un audit RGESN ? 
 - 28/02/2025 YouTube est-il conforme au RGESN v.1 2024 de l'ARCEP ?
