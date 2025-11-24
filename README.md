@@ -22,21 +22,6 @@ Au sommaire de cette page :
 
 ## Projets web
 
-### Outils
-
-- **Calculateur RGESN**
-	- Description: *"Calculer/Estimer facilement le score d'avancement RGESN d'un service numérique selon ce qui est déclaré conforme, non conforme ou non applicable."*
-	- [Code source du projet](https://gitlab.com/temesis/calculateur-rgesn)
-- **Calculateur 1byte-Model**
-	- Description: *"Calculer / Estimer facilement les impacts environnementaux d'un service numérique selon le 1byte-Model proposé du Shift Project."*
-	- **Ce projet n'est pas (encore ?) public.**
-- **Ecodesign Assessment Tool (EAT)**
-	- Description : *"Outil interne Temesis d'accompagnement à l'évaluation de la démarche d'écoconception d’un service numérique."*
-	- **Ce projet n'est pas (encore ?) public.**
-- **Portail pédagogique de formation à la conception Numérique Responsable Temesis**
-	- Description : *"Outil interne Temesis d'accompagnement à la formation à l'écoconception de services numériques."*
-	- **Ce projet n'est pas public. Pour le découvrir, participez à l'une de [nos formations](https://www.temesis.com/expertises/ecoconception/formation/).**
-
 ### Solutions alternatives
 
 - **cirrus**
@@ -57,18 +42,49 @@ Au sommaire de cette page :
 	- [Code source du projet](https://gitlab.com/temesis/danalyzer)
 	- [Installer l'extension pour Firefox](https://addons.mozilla.org/fr/firefox/addon/danalyzer/)
 - **Isanalyzer**
-	- Description : *"Les images ont un impact significatif sur la consommation énergétique d'un service numérique et sur l'expérience des utilisateurs (UX). Isanalyzer, pour Image Size Analyzer, permet de découvrir en un seul clic quelles images sont redimensionnées à la hausse ou à la baisse côté client.* 
+	- Description : *"Les images ont un impact significatif sur la consommation énergétique d'un service numérique et sur l'expérience des utilisateurs (UX). Isanalyzer, pour Image Size Analyzer, permet de découvrir en un seul clic quelles images sont redimensionnées à la hausse ou à la baisse côté client."* 
 	- [Code source du projet](https://gitlab.com/temesis/isanalyzer) 
+	- [Installer l'extension pour Chrome](https://chromewebstore.google.com/detail/isanalyzer/pongoeljaddafjpkjgjcdldgepklfncb?hl=fr)
 	- [Installer l'extension pour Firefox](https://addons.mozilla.org/fr/firefox/addon/isanalyzer/)
 - **Panalyzer**
-	- Description : *"Panalyzer est un outil de restitution synthétique du trafic réseau d'une ou plusieurs pages web avec indicateurs d'impacts environnementaux. Cette webExtension repose sur l'interprétation de fichiers HAR (HTTP Archive).*
+	- Description : *"Panalyzer est un outil de restitution synthétique du trafic réseau d'une ou plusieurs pages web avec indicateurs d'impacts environnementaux. Cette webExtension repose sur l'interprétation de fichiers HAR (HTTP Archive)."*
 	- [Code source du projet](https://gitlab.com/temesis/panalyzer)
+	- [Installer l'extension pour Chrome](https://chromewebstore.google.com/detail/panalyzer/jabclceojhmminbdjggjofieifdhmhkp) (plus fiable pour les écrans DPR > 1, cf. [ticket n°2](https://gitlab.com/temesis/isanalyzer/-/issues/2))
 	- [Installer l'extension pour Firefox](https://addons.mozilla.org/fr/firefox/addon/panalyzer/)
-	- [Installer l'extension pour Chrome](https://chromewebstore.google.com/detail/panalyzer/jabclceojhmminbdjggjofieifdhmhkp)
 - **Bookmarker**
 	- Description : *"Gagnez en productivité, épargnez la planète. Avec Bookmarker, personnalisez et regroupez instantanément vos bookies par dossier, ciblez rapidement vos adresses préférées ou partez à l'assaut du web grâce aux moteurs de recherche."*
 	- [Code source du projet](https://gitlab.com/julien.wilhelm/bookmarker)
 	- [Installer l'extension pour Firefox](https://addons.mozilla.org/fr/firefox/addon/awb-bookmarker/)
+
+### Sites web au code source publié
+
+- awebsome.fr
+	- Description : *"Site web d'Awebsome."*
+	- [Code source du projet](https://gitlab.com/julien.wilhelm/awebsome.fr)
+	- [Voir le site](https://awebsome.fr/)
+- getcirrus.awebsome.fr
+	- Description : *"Documentation de cirrus, le cloud libre et gratuit le plus sobre au monde."*
+	- [Code source du projet](https://gitlab.com/julien.wilhelm/getcirrus)
+	- [Voir le site](https://getcirrus.awebsome.fr/)
+- kitami.awebsome.fr
+	- Description : *"Vous écrivez ou avez un projet d'écriture ? L'essentiel du code source de kitami.awebsome.fr est ouvert (licence MIT) et vous pouvez vous en emparer pour travailler vos propres projets littéraires."*
+	- [Code source du projet](https://gitlab.com/julien.wilhelm/kitami.awebsome.fr)
+	- [Voir le site](https://kitami.awebsome.fr/)
+
+### Outils Temesis
+
+- **Calculateur RGESN**
+	- Description: *"Calculer/Estimer facilement le score d'avancement RGESN d'un service numérique selon ce qui est déclaré conforme, non conforme ou non applicable."*
+	- [Code source du projet](https://gitlab.com/temesis/calculateur-rgesn)
+- **Calculateur 1byte-Model**
+	- Description: *"Calculer / Estimer facilement les impacts environnementaux d'un service numérique selon le 1byte-Model proposé du Shift Project."*
+	- **Ce projet n'est pas (encore ?) public.**
+- **Ecodesign Assessment Tool (EAT)**
+	- Description : *"Outil interne Temesis d'accompagnement à l'évaluation de la démarche d'écoconception d’un service numérique."*
+	- **Ce projet n'est pas (encore ?) public.**
+- **Portail pédagogique de formation à la conception Numérique Responsable Temesis**
+	- Description : *"Outil interne Temesis d'accompagnement à la formation à l'écoconception de services numériques."*
+	- **Ce projet n'est pas public. Pour le découvrir, participez à l'une de [nos formations](https://www.temesis.com/expertises/ecoconception/formation/).**
 
 ## Apparitions (salons, ateliers, podcasts, etc)
 
@@ -123,10 +139,10 @@ J'ai eu la chance d'intervenir ici :
 
 - [Arzano | Site officiel de la commune d'Arzano dans le Finistère-Sud](https://www.arzano.fr/)
 - [Brawcoli | Restaurant vegan bio et local engagé dans le zéro déchet](https://brawcoli.fr/)
+- [Centre socioculturel La Balise | Un engrenage à idées, des projets à partager](https://cslabalise.fr/fr)
 - [Ctrl-a, pour un numérique juste et utile](https://www.ctrla.fr/)
 - [Elena Vivaldi | Traductrice & Interprète français-italien à Milan](https://elenavivaldi.com/fr/)
 - [Learn on You | Mieux vivre et travailler avec les neurosciences](https://learnonyou.com/)
-- [Centre socioculturel La Balise | Un engrenage à idées, des projets à partager](https://cslabalise.fr/fr)
 
 ### Temesis
 
