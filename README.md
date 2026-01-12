@@ -86,7 +86,7 @@ Au sommaire de cette page :
 	- Description : *"Outil interne Temesis d'accompagnement à la formation à l'écoconception de services numériques."*
 	- **Ce projet n'est pas public. Pour le découvrir, participez à l'une de [nos formations](https://www.temesis.com/expertises/ecoconception/formation/).**
 
-## Apparitions (salons, ateliers, podcasts, etc)
+## Apparitions (salons, ateliers, podcasts, interviews, etc.)
 
 J'ai eu la chance d'intervenir ici :
 
@@ -108,10 +108,12 @@ J'ai eu la chance d'intervenir ici :
 - 10/11/2022 [Live Whodunit] Comment valider et valoriser une démarche d'éco-conception ?
 - 08/10/2022 [Paris Web] A la conquête de la performance web environnementale 
 - 06/04/2022 [Flupa] À la découverte de l'écoconception numérique 
-- 01/10/2021 [Reboot!] Ecoconception de site web 
+- XX/XX/2021 [Solastalgie, merci !] [Julien Wilhelm nous parle de numérique responsable](https://solastalgie-merci.fr/blog/julien-wilhelm-nous-parle-de-numerique-responsable/)
+- 01/10/2021 [Reboot!] Ecoconception de site web
 
 ## Articles de [blog](https://www.temesis.com/blog/)
 
+- 16/12/2025 Étude : les 10 plus grandes métropoles de France ont-elle une stratégie Numérique Responsable ?
 - 23/06/2025 Six prérequis pour une IA responsable
 - 19/05/2025 Le nouveau design de Google va-t-il peser sur nos interfaces utilisateurs ?
 - 01/04/2025 Est-il utile de minifier des fichiers compressés par le réseau avec gzip ?
