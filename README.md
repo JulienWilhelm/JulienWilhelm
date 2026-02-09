@@ -24,34 +24,34 @@ Au sommaire de cette page :
 
 ### Solutions alternatives
 
-- **cirrus**
+- **cirrus** (via Awebsome)
 	- Description : *"Cloud Intègre, Responsable et Résilient pour Utilisateurs Sagaces."*
 	- [Code source du projet](https://gitlab.com/julien.wilhelm/cirrus)
 	- [Documentation officielle](https://gitlab.com/julien.wilhelm/getcirrus)
-- **curious**
+- **curious** (via Awebsome)
 	- Description : *"Outil éthique et minimaliste d'analyse du trafic utilisateur pour le Web."*
 	- [Code source du projet](https://gitlab.com/julien.wilhelm/curious)
-- **WordsMatter**
+- **WordsMatter** (via Awebsome)
 	- Description : *"Rédigez depuis l'Application ; partagez grâce à l'API connectée. WordsMatter est un module de gestion de blog 100% autonome, libre et gratuit. Son efficience en fait une alternative écoresponsable aux Systèmes de Gestion de Contenu traditionnels (CMS).*
 	- [Code source du projet](https://gitlab.com/julien.wilhelm/WordsMatter)
 
 ### Extensions web
 
-- **Danalyzer**
+- **Danalyzer** (via Temesis)
 	- Description : *"Danalyzer, pour DOM Analyzer, est un outil d'inspection du DOM destiné à faciliter la validation de critères d'analyse de performance web environnementale."*
 	- [Code source du projet](https://gitlab.com/temesis/danalyzer)
 	- [Installer l'extension pour Firefox](https://addons.mozilla.org/fr/firefox/addon/danalyzer/)
-- **Isanalyzer**
+- **Isanalyzer** (via Temesis)
 	- Description : *"Les images ont un impact significatif sur la consommation énergétique d'un service numérique et sur l'expérience des utilisateurs (UX). Isanalyzer, pour Image Size Analyzer, permet de découvrir en un seul clic quelles images sont redimensionnées à la hausse ou à la baisse côté client."* 
 	- [Code source du projet](https://gitlab.com/temesis/isanalyzer) 
 	- [Installer l'extension pour Chrome](https://chromewebstore.google.com/detail/isanalyzer/pongoeljaddafjpkjgjcdldgepklfncb?hl=fr)
 	- [Installer l'extension pour Firefox](https://addons.mozilla.org/fr/firefox/addon/isanalyzer/)
-- **Panalyzer**
+- **Panalyzer** (via Temesis)
 	- Description : *"Panalyzer est un outil de restitution synthétique du trafic réseau d'une ou plusieurs pages web avec indicateurs d'impacts environnementaux. Cette webExtension repose sur l'interprétation de fichiers HAR (HTTP Archive)."*
 	- [Code source du projet](https://gitlab.com/temesis/panalyzer)
 	- [Installer l'extension pour Chrome](https://chromewebstore.google.com/detail/panalyzer/jabclceojhmminbdjggjofieifdhmhkp) (plus fiable pour les écrans DPR > 1, cf. [ticket n°2](https://gitlab.com/temesis/isanalyzer/-/issues/2))
 	- [Installer l'extension pour Firefox](https://addons.mozilla.org/fr/firefox/addon/panalyzer/)
-- **Bookmarker**
+- **Bookmarker** (via Awebsome)
 	- Description : *"Gagnez en productivité, épargnez la planète. Avec Bookmarker, personnalisez et regroupez instantanément vos bookies par dossier, ciblez rapidement vos adresses préférées ou partez à l'assaut du web grâce aux moteurs de recherche."*
 	- [Code source du projet](https://gitlab.com/julien.wilhelm/bookmarker)
 	- [Installer l'extension pour Firefox](https://addons.mozilla.org/fr/firefox/addon/awb-bookmarker/)
@@ -71,32 +71,36 @@ Au sommaire de cette page :
 	- [Code source du projet](https://gitlab.com/julien.wilhelm/kitami.awebsome.fr)
 	- [Voir le site](https://kitami.awebsome.fr/)
 
-### Outils Temesis
+### Outils
 
-- **Calculateur RGESN**
+- **Calculateur RGESN** (via Temesis)
 	- Description: *"Calculer/Estimer facilement le score d'avancement RGESN d'un service numérique selon ce qui est déclaré conforme, non conforme ou non applicable."*
 	- [Code source du projet](https://gitlab.com/temesis/calculateur-rgesn)
-- **Calculateur 1byte-Model**
+- **Calculateur 1byte-Model** (via Temesis)
 	- Description: *"Calculer / Estimer facilement les impacts environnementaux d'un service numérique selon le 1byte-Model proposé du Shift Project."*
-	- **Ce projet n'est pas (encore ?) public.**
-- **Ecodesign Assessment Tool (EAT)**
+	- **Ce projet n'est pas public.**
+- **Ecodesign Assessment Tool (EAT)** (via Temesis)
 	- Description : *"Outil interne Temesis d'accompagnement à l'évaluation de la démarche d'écoconception d’un service numérique."*
-	- **Ce projet n'est pas (encore ?) public.**
-- **Portail pédagogique de formation à la conception Numérique Responsable Temesis**
-	- Description : *"Outil interne Temesis d'accompagnement à la formation à l'écoconception de services numériques."*
+	- **Ce projet n'est pas public.**
+- **PWE Light Analyzer** (via Temesis)
+	- Description: *"Outil d'analyse et de suivi semi-automatisé de performance web environnementale. Il repose notamment sur le référentiel PWE de Temesis."*
+	- **Ce projet n'est pas public.**
+- **Portail pédagogique de formation à la conception Numérique Responsable** (via Temesis)
+	- Description : *"Outil d'accompagnement à la formation à l'écoconception de services numériques."*
 	- **Ce projet n'est pas public. Pour le découvrir, participez à l'une de [nos formations](https://www.temesis.com/expertises/ecoconception/formation/).**
 
 ## Apparitions (salons, ateliers, podcasts, interviews, etc.)
 
 J'ai eu la chance d'intervenir ici :
 
+- 03/02/2026 [Designers Éthiques / Journée de l'écoconception #3] Performance web environnementale, du design à la technique
 - 07/10/2025 [Médiathèque d'Arzano] Causerie : l'IA générative va-t-elle nous augmenter ou nous diminuer ?
 - 19/09/2025 [Designers Éthiques] Eco-conception : comment designer ses formulaires
 - 13/06/2024 [Summer school Green I.T. 2024] École d’été sur le numérique responsable 
 - 17/05/2024 [ARCEP] Présentation du Référentiel général de l'écoconception des services numériques 
 - 18/04/2024 [GoMind] GreenTerview #8 - Plus qu'un code en bout de chaîne avec Julien Wilhelm 
 - 29/02/2024 [Opquast] Opquast day 2024
-- 01/02/2024 [Designers Éthiques] Journée de l'écoconception #1 
+- 01/02/2024 [Designers Éthiques / Journée de l'écoconception #1] Le RGESN en pratique 
 - 23/06/2023 [Emma Delpech] Interview Numérique et décroissance 
 - 23/05/2023 [La French Tech Brest] Éco-conception d’une application ou d’un site, les fondamentaux  
 - 04/04/2023 [Association GreenIT] Comment évaluer les impacts environnementaux de mon site web ?
