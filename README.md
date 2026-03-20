@@ -118,6 +118,7 @@ J'ai eu la chance d'intervenir ici :
 
 ## Articles de [blog](https://www.temesis.com/blog/)
 
+- 10/02/2026 RGESN ou PWE : lequel de ces deux référentiels choisir pour l'écoconception de vos services numériques ?
 - 16/12/2025 Étude : les 10 plus grandes métropoles de France ont-elle une stratégie Numérique Responsable ?
 - 23/06/2025 Six prérequis pour une IA responsable
 - 19/05/2025 Le nouveau design de Google va-t-il peser sur nos interfaces utilisateurs ?
