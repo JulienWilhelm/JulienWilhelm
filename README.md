@@ -93,6 +93,7 @@ Au sommaire de cette page :
 
 J'ai eu la chance d'intervenir ici :
 
+- 18/03/2026 [Micro-Folie de Scaër] L'IA, on en parle ?
 - 03/02/2026 [Designers Éthiques / Journée de l'écoconception #3] Performance web environnementale, du design à la technique
 - 07/10/2025 [Médiathèque d'Arzano] Causerie : l'IA générative va-t-elle nous augmenter ou nous diminuer ?
 - 19/09/2025 [Designers Éthiques] Eco-conception : comment designer ses formulaires
