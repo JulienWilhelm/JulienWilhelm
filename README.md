@@ -170,6 +170,7 @@ J'ai eu la chance d'intervenir ici :
 Essentiellement autodidacte, voici les parcours, MOOC, ateliers ou conférences j'ai pu suivre pour monter en compétences sur les thématiques "Développement web" et "Numérique Responsable" : 
 
 - 2026 :
+	- [INR] MOOC "MOOC Intelligence Artificielle Responsable"
 	- [Designers Éthiques] Journée de l'écoconception #3
 - 2025 : 
 	- [Opquast] Certification "Maîtrise de la qualité en projet Web" (891/1000)
